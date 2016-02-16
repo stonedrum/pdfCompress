@@ -4,6 +4,7 @@
 *.o
 *.obj
 *.pdb
+*.svn
 
 # Compiled Dynamic libraries
 *.so
